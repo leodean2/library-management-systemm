@@ -1,9 +1,15 @@
-Library Management System - README
+Library Management System 
+
+
 Project Title
 Library Management System Database
 
+
+
 Description
 This project is a comprehensive database system for managing library operations. It handles book cataloging, member management, loan tracking, and fine calculations. The system maintains relationships between books, authors, publishers, and members to efficiently manage library resources.
+
+
 Key features:
 
 Track all books in the library collection
@@ -22,6 +28,7 @@ Prerequisites
 MySQL Server (version 8.0 or higher recommended)
 
 MySQL Workbench or another database management tool
+
 
 Installation
 Clone this repository or download the SQL script
