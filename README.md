@@ -37,4 +37,4 @@ USE library_management;
 -- (paste the entire schema creation code here)
 
 ERD (Entity Relationship Diagram)
-![Library Management ERD](image/ERD.png)
+![Library Management ERD](image\ERDforlibrarymanagementsystem.png)
